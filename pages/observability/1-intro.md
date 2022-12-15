@@ -5,4 +5,6 @@
   <p class="font-extralight text-2xl">IN EVERY CASE HAPPENED IN OUR SYSTEM</p>
 </div>
 
-<!-- TIME : 05:00 -->
+<!--
+Time: 28:00
+-->

@@ -8,4 +8,8 @@
   <img src="https://nordicapis.com/wp-content/uploads/redoc-demo-API-documentation.png">
 </div>
 
-<!-- TIME : 05:00 -->
+<!--
+Time: 07:00
+
+- Contoh hasil jadi API Documentation
+-->

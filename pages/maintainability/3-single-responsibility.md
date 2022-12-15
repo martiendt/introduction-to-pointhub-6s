@@ -10,4 +10,11 @@
 
   - Each class or function should do one thing & do it well.
 </div>
-<!-- TIME : 05:00 -->
+
+<!--
+Time: 17:00
+
+- sebagai contoh kita akan terapkan 1 hal saja yaitu Single Responsibility Principle
+- setiap fungsi tanggung jawabnya singkat (1) dan jelas
+- sehingga harapannya jika tidak ada kesesuaian dengan task dan ekspektasi maka bisa terdetect
+-->

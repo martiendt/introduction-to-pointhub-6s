@@ -83,4 +83,8 @@
   </div>
 </div>
 
-<!-- TIME : 05:00 -->
+<!--
+Time: 13:00
+
+- ternyata setelah menambahkan concern about security, ada perubahan di requirement yang perlu penyesuaian dalam code juga
+-->

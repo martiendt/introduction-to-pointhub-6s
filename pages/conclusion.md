@@ -33,5 +33,9 @@
 </div>
 
 <!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
+Time: 30:00
+
+- berikut konklusi nya
+- penerapan 6 standard
+- berpikir dan bekerja secara sistematis seperti step-step yang baru kita jalankan
 -->

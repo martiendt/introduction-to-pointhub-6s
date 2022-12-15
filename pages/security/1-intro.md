@@ -5,4 +5,8 @@
   <h4 class="text-gray-400">TO STORE OUR IMPORTANT DATA</h4>
 </div>
 
-<!-- TIME : 05:00 -->
+<!--
+Time: 10:00
+
+- bila membuat enterprise apps pasti harus memikirkan sisi keamanan data
+-->

@@ -61,4 +61,13 @@ export const create = async (req: Request, res: Response, next: NextFunction) =>
 
 ```
 </div>
-<!-- TIME : 05:00 -->
+
+<!--
+Time: 14:00
+
+- ada 2 point yang kita tambahkan
+- password validation
+- dan email checking unique
+- sampai tahap ini sebenarnya aplikasi sudah bisa jalan sesuai fungsinya
+- tapi masih ada beberapa concern yang harus diselesaikan, masuk ke tahap berikutnya
+-->

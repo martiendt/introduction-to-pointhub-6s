@@ -21,4 +21,8 @@
   </div>
 </div>
 
-<!-- TIME : 05:00 -->
+<!--
+Time: 16:00
+
+- Setelah ini kita akan coba baca kembali code yang sudah kita buat
+-->

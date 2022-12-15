@@ -23,4 +23,9 @@
   </div>
 </div>
 
-<!-- TIME : 05:00 -->
+<!--
+Time: 12:00
+
+- rangkuman dari semua requirement yang tercatat pada proses ini biasa kita namakan project requirement document
+- untuk memastikan bisa deliver sesuai ekspektasi
+-->

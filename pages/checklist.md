@@ -44,5 +44,8 @@
 </div>
 
 <!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
+Time: 30:00
+
+- terakhir perlu kita pastikan apakah yang kita deliver sudah sesuai dengan ekspektasi client
+- kalau ada yang belum tercentang ya jangan bilang selesai hanya karena kelihatanya sudah jalan fungsinya
 -->

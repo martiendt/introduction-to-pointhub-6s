@@ -8,4 +8,8 @@
   <img src="https://cms.halovina.com/wp-content/uploads/2020/01/sentry.io-halovina.jpg">
 </div>
 
-<!-- TIME : 05:00 -->
+<!--
+Time: 28:00
+
+- contoh error log monitoring
+-->

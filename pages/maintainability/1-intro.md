@@ -10,4 +10,8 @@
   <p class="text-xs">- Donald Knuth, The Art of Computer Programming.</p>
 </div>
 
-<!-- TIME : 05:00 -->
+<!--
+Time: 15:00
+
+- program itu dibuat bukan hanya untuk dieksekusi oleh mesin tetapi juga untuk dibaca manusia
+-->

@@ -14,4 +14,7 @@
   - I: Interface Segregation Principle
   - D: Dependency Inversion Principle
 </div>
-<!-- TIME : 05:00 -->
+
+<!--
+Time: 16:00
+-->

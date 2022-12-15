@@ -5,4 +5,8 @@
   <p class="font-extralight text-6xl">EVERY TIME !</p>
 </div>
 
-<!-- TIME : 05:00 -->
+<!--
+Time: 26:00
+
+- kita mau setiap fungsi yang sudah berjalan tidak rusak dikemudian hari
+-->

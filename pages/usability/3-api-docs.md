@@ -52,4 +52,11 @@ const form = {
   </div>
 </div>
 
-<!-- TIME : 05:00 -->
+<!--
+Time: 07:00
+
+- Apa yang terjadi ketika proses registrasi
+- client memanggil url atau endpoint
+- client memberikan input
+- client menerima output
+-->

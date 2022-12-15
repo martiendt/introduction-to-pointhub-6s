@@ -83,4 +83,8 @@
   </div>
 </div>
 
-<!-- TIME : 05:00 -->
+<!--
+Time: 07:00
+
+- Mapping data, sebelum coding ketahui dulu schema data seperti apa
+-->

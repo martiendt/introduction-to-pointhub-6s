@@ -20,4 +20,11 @@
   </div>
 </div>
 
-<!-- TIME : 05:00 -->
+<!--
+Time: 28:00
+
+- tahap ini kita akan melakukan integrasi dengan 3rd party seperti sentry, rocketlog, dsb
+- yang harus kita pastikan adalah error messagenya clear
+- untuk case-case tadi adalah error yang sudah dihandle
+- yang belum kita perhitungkan adalah unhandled error seperti rate limit, database connection error, dsb
+-->

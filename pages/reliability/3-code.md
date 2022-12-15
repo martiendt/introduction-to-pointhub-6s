@@ -104,4 +104,9 @@ describe("end to end testing", () => {
 });
 ```
 </div>
-<!-- TIME : 05:00 -->
+
+<!--
+Time: 27:00
+
+- cara baca testing
+-->

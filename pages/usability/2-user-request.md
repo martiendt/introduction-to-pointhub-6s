@@ -21,4 +21,8 @@
   </div>
 </div>
 
-<!-- TIME : 05:00 -->
+<!--
+Time: 06:00
+
+- Pahami dengan jelas apa yang dimau client
+-->

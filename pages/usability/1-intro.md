@@ -7,4 +7,8 @@
   </p>
 </div>
 
-<!-- TIME : 05:00 -->
+<!--
+Time: 05:00
+
+- Best practice yang pertama adalah deliver sesuatu sesuai dengan ekspektasi
+-->

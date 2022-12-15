@@ -18,4 +18,10 @@
   </div>
 </div>
 
-<!-- TIME : 05:00 -->
+<!--
+Time: 29:00
+
+- kita perlu penerapan design principles seperti clean code architecture, bridge pattern, dsb supaya agility atau proses coding bisa lebih efisien
+- query example yang tidak efisien sehingga menjadi bottleneck load time
+- hal-hal tersebut akan kita solve case by case menggunakan best practice coding dan design principles
+-->

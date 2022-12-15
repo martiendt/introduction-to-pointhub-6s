@@ -18,4 +18,9 @@ interface User {
 }
 ```
 </div>
-<!-- TIME : 05:00 -->
+
+<!--
+Time: 08:00
+
+- Code sesuai ekspektasi (data)
+-->

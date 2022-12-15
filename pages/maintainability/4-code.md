@@ -60,4 +60,11 @@ export const create = async (req: Request, res: Response, next: NextFunction) =>
 
 ```
 </div>
-<!-- TIME : 05:00 -->
+
+<!--
+Time: 20:00
+
+- problem kode kompleks karena terlalu banyak tanggung jawab di 1 fungsi sehingga ekspektasinya dari fungsi itu tidak bisa clear
+- point 2 bertanggung jawab terhadap validasi
+- point 3 bertanggung jawab terhadap database
+-->

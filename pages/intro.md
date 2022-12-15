@@ -12,5 +12,10 @@
 </div>
 
 <!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
+Time: 03:00
+
+- Martien dari Pointhub
+- Topic Best Practice dan Design Principles
+- Berdasarkan dari pengalaman dan fakta dilapangan banyak kegagalan dalam pembuatan code 
+- Sehingga diperlukannya penerapan tersebut
 -->

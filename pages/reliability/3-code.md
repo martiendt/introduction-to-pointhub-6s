@@ -8,7 +8,7 @@
 </div>
 
 <div class="h-96 overflow-y-auto my-4">
-```ts {5-14|5|6|9|11-13|16-30|28,29|32-43|41,42|45-56|54,55|58-69|67,68|71-91|72-77|80-84|86-91}
+```ts {5-14|5|6|9|11-13|16-30|16|28,29|32-43|32|41,42|45-56|54,55|58|58-69|67,68|71-91|72-77|80-84|86-91}
 import request from "supertest";
 import { createApp } from "@src/app.js";
 
@@ -109,4 +109,5 @@ describe("end to end testing", () => {
 Time: 27:00
 
 - cara baca testing
+- mindset untuk memahami delivery expectation
 -->

@@ -12,4 +12,6 @@
 Time: 07:00
 
 - Contoh hasil jadi API Documentation
+- nanti kita bisa pakai template
+- redocly, swagger, postman docs, dsb
 -->

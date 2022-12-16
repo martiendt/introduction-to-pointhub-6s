@@ -23,4 +23,6 @@ interface User {
 Time: 08:00
 
 - Code sesuai ekspektasi (data)
+- sudah tidak lagi membayang2kan
+- tapi sudah menggunakan referensi mockup, database requirement, dan data api nya,
 -->

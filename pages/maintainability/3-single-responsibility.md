@@ -17,4 +17,5 @@ Time: 17:00
 - sebagai contoh kita akan terapkan 1 hal saja yaitu Single Responsibility Principle
 - setiap fungsi tanggung jawabnya singkat (1) dan jelas
 - sehingga harapannya jika tidak ada kesesuaian dengan task dan ekspektasi maka bisa terdetect
+- ilustrasi generalis dan specialist
 -->

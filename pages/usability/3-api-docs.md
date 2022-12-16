@@ -55,7 +55,8 @@ const form = {
 <!--
 Time: 07:00
 
-- Apa yang terjadi ketika proses registrasi
+- jadi kalo mockup tadi bicara mengenai frontend, sekarang kita bahas mengenai backendnya
+- apa yang terjadi ketika proses registrasi
 - client memanggil url atau endpoint
 - client memberikan input
 - client menerima output

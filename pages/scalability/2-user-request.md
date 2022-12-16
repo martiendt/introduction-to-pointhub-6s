@@ -3,7 +3,7 @@
 <div class="h-full overflow-y-auto m-4">
   <div class="flex flex-row space-x-5">
     <div class="flex-1">
-      <img src="https://www.positronx.io/wp-content/uploads/2019/09/react-login-ui-6748-02.png" class="h-72" />
+      <img src="https://i.ibb.co/Jjk2T8t/signup.png" class="h-72" />
     </div>
     <div class="flex-1 overflow-y-auto h-72">
       <h6 v-click>Scalability Issue</h6>

@@ -4,10 +4,10 @@
 <div class="h-full overflow-y-auto m-4">
   <div class="flex flex-row space-x-5">
     <div class="flex-1">
-      <img src="https://www.positronx.io/wp-content/uploads/2019/09/react-login-ui-6748-02.png" class="h-72" />
+      <img src="https://i.ibb.co/Jjk2T8t/signup.png" class="h-72" />
     </div>
     <div class="flex-1">
-      <img title="recipe.jpg" src="https://cdn.dribbble.com/users/3632082/screenshots/6538181/recipe.jpg" class="h-72">
+      <img title="recipe.jpg" src="https://i.ibb.co/XF98HQ6/recipe.png" class="h-72">
     </div>
   </div>
 </div>
@@ -15,5 +15,6 @@
 <!--
 Time: 04:00
 
-- Case study - dimulai dari permintaan client
+- case study - dimulai dari permintaan client
+- kita coba implementasikan menggunakan best practice 6 standard pointhub
 -->

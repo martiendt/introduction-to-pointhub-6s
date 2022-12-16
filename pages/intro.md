@@ -1,3 +1,7 @@
+---
+{}
+---
+
 <h1 class="font-extrabold">Introduction to <span class="text-green-500">Pointhub</span></h1>
 
 <div>
@@ -16,6 +20,7 @@ Time: 03:00
 
 - Martien dari Pointhub
 - Topic Best Practice dan Design Principles
-- Berdasarkan dari pengalaman dan fakta dilapangan banyak kegagalan dalam pembuatan code 
-- Sehingga diperlukannya penerapan tersebut
+- Berdasarkan dari pengalaman banyak kegagalan dalam pembuatan code (tidak sesuai ekspektasi)
+- Sehingga kita mendesign 6 standard untuk mengatasi common problem (simple tapi sangat berpengaruh)
+- kita coba mengenalkan 6 standard melalui study case
 -->
